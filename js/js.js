@@ -590,7 +590,7 @@ option = {
                 normal: {
                     formatter: v2 +'',
                     textStyle: {
-                        fontSize: 20,
+                        fontSize: 16,
 						color:'#fff',
                     }
                 }
@@ -605,7 +605,7 @@ option = {
             },
                     textStyle: {
                         color: '#aaa',
-                        fontSize: 12
+                        fontSize: 10,
                     }
                 }
             },
@@ -650,7 +650,7 @@ function zb2() {
                 normal: {
                     formatter: v1 +'',
                     textStyle: {
-                        fontSize: 20,
+                        fontSize: 16,
 						color:'#fff',
                     }
                 }
@@ -665,7 +665,7 @@ function zb2() {
             },
                     textStyle: {
                         color: '#aaa',
-                        fontSize: 12
+                        fontSize: 10
                     }
                 }
             },
@@ -710,7 +710,7 @@ option = {
                 normal: {
                     formatter: v2 +'',
                     textStyle: {
-                        fontSize: 20,
+                        fontSize: 16,
 						color:'#fff',
                     }
                 }
@@ -725,7 +725,7 @@ option = {
             },
                     textStyle: {
                         color: '#aaa',
-                        fontSize: 12
+                        fontSize: 10
                     }
                 }
             },
@@ -746,21 +746,3 @@ option = {
         });
     }
 })
-
-
-
-		
-		
-		
-
-
-		
-
-
-
-
-
-
-
-
-
